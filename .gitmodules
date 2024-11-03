@@ -2,3 +2,6 @@
 [submodule "themes/risotto"] 
   path = themes/risotto
   url = https://github.com/joeroe/risotto
+[submodule "themes/themes/risotto"]
+	path = themes/themes/risotto
+	url = https://github.com/joeroe/risotto
