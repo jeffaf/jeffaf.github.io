@@ -1,5 +1,11 @@
-+++
-date = '2024-11-03T14:50:22-05:00'
-draft = false
-title = ''
-+++
+---
+title: "Home"
+date: 2024-11-10
+draft: false
+---
+
+# Jeff Barron
+
+Offensive security professional and malware developer.
+
+[About](about/) | [Projects](projects/) | [Posts](posts/)
