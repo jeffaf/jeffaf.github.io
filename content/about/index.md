@@ -4,7 +4,7 @@ date: 2024-11-10
 draft: false
 ---
 
-# About Me
+
 
 Hi, I'm Jeff Barron, an offensive security professional and software developer. I specialize in developing security tools and exploring innovative approaches to security challenges.
 
