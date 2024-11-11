@@ -14,7 +14,6 @@ I'm actively developing [bazzy](https://github.com/jeffaf/bazzy), while learning
 
 ## Contact & Connect
 
-- Email: [jeffbarron@protonmail.com](mailto:jeffbarron@protonmail.com)
 - Twitter: [@_jeffaf](https://twitter.com/_jeffaf)
 - GitHub: [jeffaf](https://github.com/jeffaf)
 
