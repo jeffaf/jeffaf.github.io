@@ -49,10 +49,10 @@ url = "mailto:jeffbarron@protonmail.com"
     url = "/posts/"
     weight = 2
 
-  [[menu.main]]
+[[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "/about/"    # Corrected to point to local about page
     weight = 3
 
   [[menu.main]]
