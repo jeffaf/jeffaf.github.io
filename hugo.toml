@@ -1,4 +1,4 @@
-baseURL = 'https://jeffaf.github.io'
+baseURL = 'https://jeffaf.github.io/'
 
 title = 'jeff barron'
 theme = 'risotto'
