@@ -6,7 +6,7 @@ draft: false
 
 
 
-Hi, I'm Jeff Barron, an offensive security professional and malware developer. 
+Hi, I'm Jeff, an offensive security professional and malware developer. 
 
 ## Current Focus
 
