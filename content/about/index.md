@@ -6,11 +6,11 @@ draft: false
 
 
 
-Hi, I'm Jeff Barron, an offensive security professional and software developer. I specialize in developing security tools and exploring innovative approaches to security challenges.
+Hi, I'm Jeff Barron, an offensive security professional and malware developer. 
 
 ## Current Focus
 
-I'm actively developing [bazzy](https://github.com/jeffaf/bazzy), while expanding my expertise in Nim programming and security software development.
+I'm actively developing [bazzy](https://github.com/jeffaf/bazzy), while learning maldev and Nim.
 
 ## Contact & Connect
 
@@ -19,5 +19,3 @@ I'm actively developing [bazzy](https://github.com/jeffaf/bazzy), while expandin
 - GitHub: [jeffaf](https://github.com/jeffaf)
 
 ---
-
-*Note: While I maintain active profiles on various platforms, email is the best way to reach me for professional inquiries.*
