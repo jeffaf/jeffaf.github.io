@@ -13,7 +13,7 @@
       <link>https://jeffaf.github.io/projects/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://jeffaf.github.io/projects/</guid>
-      <description>&lt;h2 id=&#34;nimsysloaderhttpsgithubcomjeffafnimsysloader&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/NimSysLoader&#34;&gt;NimSysLoader&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A Nim-based shellcode loader that utilizes direct syscalls via NimlineWhispers2/SysWhispers2 for core functionality.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bazzyhttpsgithubcomjeffafbazzy&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/bazzy&#34;&gt;Bazzy&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A shellcode injector and runner.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;gruxhttpsgithubcomjeffafgrux&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/grux&#34;&gt;grux&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A retro-styled terminal web interface with a hacker aesthetic. Built with React and xterm.js. Live demo at &lt;a href=&#34;https://grux.pwn.codes&#34;&gt;grux.pwn.codes&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;nimsysloaderhttpsgithubcomjeffafnimsysloader&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/NimSysLoader&#34;&gt;NimSysLoader&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A Nim-based shellcode loader that utilizes direct syscalls via NimlineWhispers2/SysWhispers2 for core functionality.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bazzyhttpsgithubcomjeffafbazzy&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/bazzy&#34;&gt;Bazzy&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A shellcode injector and runner.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
