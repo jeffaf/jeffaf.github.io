@@ -6,12 +6,12 @@
     <description>Recent content in Home on jeff barron</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jeffaf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>https://jeffaf.github.io/projects/</link>
-      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://jeffaf.github.io/projects/</guid>
       <description>&lt;h2 id=&#34;gruxhttpsgithubcomjeffafgrux&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/grux&#34;&gt;grux&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A retro-styled terminal web interface with a hacker aesthetic. Built with React and xterm.js. Live demo at &lt;a href=&#34;https://grux.pwn.codes&#34;&gt;grux.pwn.codes&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;nimsysloaderhttpsgithubcomjeffafnimsysloader&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/NimSysLoader&#34;&gt;NimSysLoader&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A Nim-based shellcode loader that utilizes direct syscalls via NimlineWhispers2/SysWhispers2 for core functionality.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bazzyhttpsgithubcomjeffafbazzy&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/bazzy&#34;&gt;Bazzy&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A shellcode injector and runner.&lt;/p&gt;</description>
     </item>
