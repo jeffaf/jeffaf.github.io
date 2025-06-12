@@ -15,6 +15,7 @@ I'm actively developing [bazzy](https://github.com/jeffaf/bazzy), while learning
 ## Contact & Connect
 
 - Twitter: [@_jeffaf](https://twitter.com/_jeffaf)
+- Bluesky: [@jeffaf](https://bsky.app/profile/jeffaf.bsky.social)
 - GitHub: [jeffaf](https://github.com/jeffaf)
 
 ---
