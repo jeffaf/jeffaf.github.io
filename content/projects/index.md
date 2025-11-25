@@ -1,8 +1,11 @@
 ---
 title: "Projects"
-date: 2025-02-19
+date: 2025-11-24
 draft: false
 ---
+
+## [MacProbe](https://github.com/jeffaf/macprobe)
+A lightweight C-based security auditing tool for macOS that identifies system misconfigurations and potential vulnerabilities. Detects VM environments, checks security settings (SIP/Gatekeeper), enumerates TCC privacy permissions, and scans applications for dangerous entitlement combinations that could enable DYLD injection attacks.
 
 ## [rexx](https://github.com/jeffaf/rexx)
 A cyberpunk-themed mobile app for checking email breaches using the HaveIBeenPwned API. Cross-platform React Native/Expo app with neon UI and comprehensive breach analysis.
