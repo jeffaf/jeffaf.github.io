@@ -6,21 +6,21 @@
     <description>Recent content in Home on jeff barron</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jeffaf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>https://jeffaf.github.io/projects/</link>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://jeffaf.github.io/projects/</guid>
-      <description>&lt;h2 id=&#34;gruxhttpsgithubcomjeffafgrux&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/grux&#34;&gt;grux&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A retro-styled terminal web interface with a hacker aesthetic. Built with React and xterm.js. Live demo at &lt;a href=&#34;https://grux.pwn.codes&#34;&gt;grux.pwn.codes&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;nimsysloaderhttpsgithubcomjeffafnimsysloader&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/NimSysLoader&#34;&gt;NimSysLoader&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A Nim-based shellcode loader that utilizes direct syscalls via NimlineWhispers2/SysWhispers2 for core functionality.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bazzyhttpsgithubcomjeffafbazzy&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/bazzy&#34;&gt;Bazzy&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A shellcode injector and runner.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;macprobe&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/macprobe&#34;&gt;MacProbe&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A lightweight C-based security auditing tool for macOS that identifies system misconfigurations and potential vulnerabilities. Detects VM environments, checks security settings (SIP/Gatekeeper), enumerates TCC privacy permissions, and scans applications for dangerous entitlement combinations that could enable DYLD injection attacks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;rexx&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/rexx&#34;&gt;rexx&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A cyberpunk-themed mobile app for checking email breaches using the HaveIBeenPwned API. Cross-platform React Native/Expo app with neon UI and comprehensive breach analysis.&lt;/p&gt;&#xA;&lt;h2 id=&#34;grux&#34;&gt;&lt;a href=&#34;https://github.com/jeffaf/grux&#34;&gt;grux&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A retro-styled terminal web interface with a hacker aesthetic. Built with React and xterm.js. Live demo at &lt;a href=&#34;https://grux.pwn.codes&#34;&gt;grux.pwn.codes&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>https://jeffaf.github.io/about/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://jeffaf.github.io/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Jeff, an offensive security professional and malware developer.&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-focus&#34;&gt;Current Focus&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m actively developing &lt;a href=&#34;https://github.com/jeffaf/bazzy&#34;&gt;bazzy&lt;/a&gt;, while learning maldev and Nim.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact--connect&#34;&gt;Contact &amp;amp; Connect&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/_jeffaf&#34;&gt;@_jeffaf&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/jeffaf&#34;&gt;jeffaf&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Jeff, an offensive security professional and malware developer.&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-focus&#34;&gt;Current Focus&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m actively developing &lt;a href=&#34;https://github.com/jeffaf/bazzy&#34;&gt;bazzy&lt;/a&gt;, while learning maldev and Nim.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact--connect&#34;&gt;Contact &amp;amp; Connect&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/_jeffaf&#34;&gt;@_jeffaf&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Bluesky: &lt;a href=&#34;https://bsky.app/profile/jeffaf.bsky.social&#34;&gt;@jeffaf&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/jeffaf&#34;&gt;jeffaf&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>
 </rss>

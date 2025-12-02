@@ -6,7 +6,9 @@ enableRobotsTXT = true
 
 
 author = "Jeff Barron"
-paginate = 3
+
+[pagination]
+pagerSize = 3
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
@@ -79,5 +81,5 @@ unsafe = true
   [services.instagram]
     disableInlineCSS = true
 
-  [services.twitter]
+  [services.x]
     disableInlineCSS = true

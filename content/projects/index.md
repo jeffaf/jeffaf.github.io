@@ -17,4 +17,7 @@ A retro-styled terminal web interface with a hacker aesthetic. Built with React 
 A Nim-based shellcode loader that utilizes direct syscalls via NimlineWhispers2/SysWhispers2 for core functionality.
 
 ## [Bazzy](https://github.com/jeffaf/bazzy)
-A shellcode injector and runner. 
+A shellcode injector and runner.
+
+## [BunnyGod](https://github.com/jeffaf/bunnygod)
+AI-powered philosophical Q&A system that retrieves answers from academic literature. Built with Astro, Cloudflare Workers, and Workers AI. 
