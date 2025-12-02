@@ -34,9 +34,9 @@ title = "Twitter"
 url = "https://twitter.com/_jeffaf"
 
 [[params.socialLinks]]
-icon = "fa-solid fa-envelope"
-title = "Email"
-url = "mailto:jeffbarron@protonmail.com"
+icon = "fa-brands fa-bluesky"
+title = "Bluesky"
+url = "https://bsky.app/profile/jeffaf.bsky.social"
 
 [menu]
   [[menu.main]]
