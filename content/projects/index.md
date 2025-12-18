@@ -5,10 +5,10 @@ draft: false
 ---
 
 ## [MacProbe](https://github.com/jeffaf/macprobe)
-A lightweight C-based security auditing tool for macOS that identifies system misconfigurations and potential vulnerabilities. Detects VM environments, checks security settings (SIP/Gatekeeper), enumerates TCC privacy permissions, and scans applications for dangerous entitlement combinations that could enable DYLD injection attacks.
+A lightweight C-based macOS security auditing tool. Detects VM environments, checks SIP/Gatekeeper status, enumerates TCC permissions, and identifies dangerous entitlement combinations.
 
 ## [rexx](https://github.com/jeffaf/rexx)
-A cyberpunk-themed mobile app for checking email breaches using the HaveIBeenPwned API. Cross-platform React Native/Expo app with neon UI and comprehensive breach analysis.
+A cyberpunk-themed mobile app for checking email breaches using the HaveIBeenPwned API. Cross-platform React Native/Expo app with neon UI.
 
 ## [grux](https://github.com/jeffaf/grux)
 A retro-styled terminal web interface with a hacker aesthetic. Built with React and xterm.js. Live demo at [grux.pwn.codes](https://grux.pwn.codes).
