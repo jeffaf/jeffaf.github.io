@@ -8,4 +8,4 @@ draft: false
 
 Offensive security professional and malware developer.
 
-[About](about/) | [Projects](projects/) | [Posts](posts/)
+[About](about/) | [Projects](projects/)
