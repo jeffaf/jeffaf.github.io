@@ -1,11 +1,11 @@
 ---
 title: "Home"
-date: 2025-12-18
+date: 2026-02-04
 draft: false
 ---
 
 # Jeff Barron
 
-Offensive security professional and malware developer.
+Offensive security professional and toolsmith.
 
 [About](about/) | [Projects](projects/)
