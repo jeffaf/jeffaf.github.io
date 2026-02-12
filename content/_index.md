@@ -8,4 +8,4 @@ draft: false
 
 Offensive security professional and toolsmith.
 
-[About](about/) | [Projects](projects/)
+[About](about/) | [Projects](projects/) | [Newsletter](https://credrelay.com)
