@@ -4,6 +4,12 @@ date: 2026-02-04
 draft: false
 ---
 
+## [Cthaeh](https://github.com/jeffaf/cthaeh)
+🌳 Ghidra-powered triage scanner for Windows kernel drivers. Scores drivers on 60+ vulnerability heuristics so you know which `.sys` files to pull apart first. Named after the all-seeing tree from *The Kingkiller Chronicle*.
+
+## [Cred Relay](https://credrelay.com)
+Monthly newsletter covering offensive security, maldev, and AI-assisted security research. Honest writeups from the lab.
+
 ## [CVE-2025-3464 AsIO3 LPE](https://github.com/jeffaf/CVE-2025-3464-AsIO3-LPE)
 BYOVD LPE exploit for ASUS AsIO3.sys - TOCTOU auth bypass + PreviousMode decrement to steal SYSTEM tokens on Windows 11. AI-assisted exploit development. CVE discovered by [Cisco Talos](https://blog.talosintelligence.com/decrement-by-one-to-rule-them-all/).
 
