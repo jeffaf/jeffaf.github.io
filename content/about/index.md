@@ -4,7 +4,7 @@ date: 2026-02-04
 draft: false
 ---
 
-Hi, I'm Jeff, an offensive security professional and toolsmith. 
+Hi, I'm Jeff, an offensive security professional. 
 
 ## Current Focus
 
