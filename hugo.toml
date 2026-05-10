@@ -59,7 +59,7 @@ url = "https://bsky.app/profile/jeffaf.bsky.social"
 
   [[menu.main]]
     identifier = "vulnerability-research"
-    name = "Vuln Research"
+    name = "Vulnerability Research"
     url = "/vulnerability-research/"
     weight = 5
 
