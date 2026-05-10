@@ -4,11 +4,13 @@ date: 2026-05-10
 draft: false
 ---
 
-Hi, I'm Jeff, an offensive security professional. 
+Hi, I'm Jeff, an offensive security professional.
 
 ## Current Focus
 
-Building offensive tooling in Nim, exploring AI-assisted exploit development, and writing about the intersection of security and LLMs at [Cred Relay](https://credrelay.com).
+Windows kernel driver vulnerability research, offensive tooling in Nim, and writing field reports about security research and AI-assisted workflows at [Cred Relay](https://credrelay.com).
+
+Recent work includes published [vulnerability research](/vulnerability-research/) on ASUS Windows drivers and building [Cthaeh](https://github.com/jeffaf/cthaeh), a Ghidra-powered triage scanner for Windows kernel drivers.
 
 ## Contact & Connect
 

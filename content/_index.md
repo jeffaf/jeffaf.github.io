@@ -8,4 +8,4 @@ draft: false
 
 Offensive security professional
 
-[About](about/) | [Projects](projects/) | [Newsletter](https://credrelay.com)
+[About](about/) | [Projects](projects/) | [Vulnerability Research](vulnerability-research/) | [Newsletter](https://credrelay.com)
