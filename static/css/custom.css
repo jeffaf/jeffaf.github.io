@@ -1,3 +1,45 @@
+/* Make content headings read like actual document structure instead of raw Markdown. */
+.page__body h1,
+.page__body h2,
+.page__body h3,
+.page__body h4,
+.page__body h5,
+.page__body h6 {
+  line-height: 1.3;
+}
+
+.page__body h1 {
+  font-size: 1.55rem;
+  margin: 0 0 1.5rem 0;
+}
+
+.page__body h2 {
+  font-size: 1.25rem;
+  margin-top: 2rem;
+  border-bottom: 1px solid var(--muted);
+  padding-bottom: 0.25rem;
+}
+
+.page__body h3 {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+}
+
+.page__body h4,
+.page__body h5,
+.page__body h6 {
+  font-size: 1rem;
+}
+
+.page__body h1::before,
+.page__body h2::before,
+.page__body h3::before,
+.page__body h4::before,
+.page__body h5::before,
+.page__body h6::before {
+  content: none;
+}
+
 @media (max-width: 45rem) {
   .page {
     margin: 0.75rem;
@@ -14,6 +56,14 @@
 
   .page__body {
     box-shadow: 0 0 0 0.75rem var(--off-bg);
+  }
+
+  .page__body h1 {
+    font-size: 1.35rem;
+  }
+
+  .page__body h2 {
+    font-size: 1.15rem;
   }
 
   .page__aside {
