@@ -5,7 +5,15 @@ draft: false
 ---
 
 ## [Cthaeh](https://github.com/jeffaf/cthaeh)
-🌳 Ghidra-powered triage scanner for Windows kernel drivers. Scores drivers on 60+ vulnerability heuristics so you know which `.sys` files to pull apart first. Named after the all-seeing tree from *The Kingkiller Chronicle*.
+🌳 Ghidra-powered triage scanner for Windows kernel drivers. Used as part of my driver research workflow, including findings later published as CVEs. Scores drivers on 60+ vulnerability heuristics so you know which `.sys` files to pull apart first. Named after the all-seeing tree from *The Kingkiller Chronicle*.
+
+## Vulnerability Research
+
+### [CVE-2026-3508: ASUS AsusWmiAcpi.sys Heap Over-Read](https://github.com/jeffaf/publications/tree/main/CVE-2026-3508)
+Kernel driver research finding in ASUS System Control Interface. The issue was a `METHOD_BUFFERED` IOCTL size validation bug where the driver trusted an embedded length field and read beyond the actual buffered input allocation.
+
+### [CVE-2026-6737: ASUS AsusPTPFilter.sys Insecure Device Object Permissions](https://github.com/jeffaf/publications/tree/main/CVE-2026-6737)
+ASUS Precision Touchpad Filter driver issue where named device objects were created without explicit SDDL permissions, exposing driver IOCTL handlers to standard local users. Fixed in `AsusPTPFilter` version `16.0.0.46` or later.
 
 ## [Cred Relay](https://credrelay.com)
 Monthly newsletter covering offensive security, maldev, and AI-assisted security research.
