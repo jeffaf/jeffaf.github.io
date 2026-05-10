@@ -57,6 +57,12 @@ url = "https://bsky.app/profile/jeffaf.bsky.social"
     url = "/projects/"
     weight = 4
 
+  [[menu.main]]
+    identifier = "vulnerability-research"
+    name = "Vuln Research"
+    url = "/vulnerability-research/"
+    weight = 5
+
 [taxonomies]
 category = "categories"
 tag = "tags"

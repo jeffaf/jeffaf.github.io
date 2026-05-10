@@ -7,9 +7,6 @@ draft: false
 ## [Cthaeh](https://github.com/jeffaf/cthaeh)
 🌳 Ghidra-powered triage scanner for Windows kernel drivers. Used as part of my driver research workflow, including findings later published as CVEs. Scores drivers on 60+ vulnerability heuristics so you know which `.sys` files to pull apart first. Named after the all-seeing tree from *The Kingkiller Chronicle*.
 
-## [Vulnerability Research](/vulnerability-research/)
-Published CVEs, driver bug writeups, and proof-of-concept code from Windows kernel driver research.
-
 ## [Cred Relay](https://credrelay.com)
 Monthly newsletter covering offensive security, maldev, and AI-assisted security research.
 
